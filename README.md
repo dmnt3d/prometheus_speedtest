@@ -1,5 +1,9 @@
 # Prometheus Speedtest
 
+# UPDATE: 04/11/2021
+Modified speedtest cli to newest version to resolve: https://github.com/jeanralphaviles/prometheus_speedtest/issues/40
+
+
 Instrument [Speedtest.net](http://speedtest.net) tests from
 [Prometheus](https://prometheus.io). Provides metrics on download\_speed,
 upload\_speed, and latency.
